@@ -1,4 +1,3 @@
 # billing1-system
 this is my first git repositary
-founder akash shivalingappa athani
-
+founder
